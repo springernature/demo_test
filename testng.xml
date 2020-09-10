@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" name="Sample Test Suite" parallel="tests">
+<listeners>
+		<listener class-name="com.sn.listeners.TestListener" />
+	</listeners>
+	
+  <test name="Method Test Cases" >
+  		<parameter name="os" value="windows" />
+		<parameter name="osversion" value="7" />
+		<parameter name="browserName" value="chrome" />
+		<parameter name="browserVersion" value="62.0" />
+		<parameter name="browserstackLocal" value="true" />
+		<parameter name="seleniumVersion" value="3.5.2" />
+		<parameter name="browserDriver" value="" />
+		<parameter name="env" value="local" />
+		<parameter name="executionEnv" value="ACC" />
+    <classes>
+    <!--  <class name="com.sn.regression.internal.ArticleWorkflowSuite"/>
+    <class name="com.sn.sanity.SanitySuite"/>-->
+      <class name="com.sn.smoke.SmokeSuite"/>
+      
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

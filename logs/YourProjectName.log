@@ -1,0 +1,25 @@
+2020-09-10 12:31:10,505 INFO c.s.c.BaseConfig [main] Before suite set up completed
+2020-09-10 12:32:57,883 INFO c.s.c.BaseConfig [main] Before suite set up completed
+2020-09-10 12:32:57,899 INFO c.s.l.TestListener [TestNG-tests-1] *** Test Suite Method Test Cases started ***
+2020-09-10 12:32:57,906 INFO c.s.l.ExtentManager [TestNG-tests-1] Directory: C:\Users\dsq2645\Downloads\SamplePilot-master (1)\SamplePilot-master\target is created!
+2020-09-10 12:33:04,080 INFO c.s.l.TestListener [TestNG-tests-1] *** Test testCaseVerifyLoginButton skipped...
+2020-09-10 12:33:04,167 INFO c.s.l.TestListener [TestNG-tests-1] *** Test Suite Method Test Cases ending ***
+2020-09-10 12:33:19,200 INFO c.s.c.BaseConfig [main] Before suite set up completed
+2020-09-10 12:33:19,224 INFO c.s.l.TestListener [TestNG-tests-1] *** Test Suite Method Test Cases started ***
+2020-09-10 12:33:19,229 INFO c.s.l.ExtentManager [TestNG-tests-1] Directory already exists: C:\Users\dsq2645\Downloads\SamplePilot-master (1)\SamplePilot-master\target
+2020-09-10 12:33:24,054 INFO c.s.l.TestListener [TestNG-tests-1] *** Test testCaseVerifyLoginButton skipped...
+2020-09-10 12:33:24,146 INFO c.s.l.TestListener [TestNG-tests-1] *** Test Suite Method Test Cases ending ***
+2020-09-10 12:34:22,718 INFO c.s.c.BaseConfig [main] Before suite set up completed
+2020-09-10 12:34:22,731 INFO c.s.l.TestListener [TestNG-tests-1] *** Test Suite Method Test Cases started ***
+2020-09-10 12:34:22,738 INFO c.s.l.ExtentManager [TestNG-tests-1] Directory already exists: C:\Users\dsq2645\Downloads\SamplePilot-master (1)\SamplePilot-master\target
+2020-09-10 12:34:42,331 INFO c.s.c.BaseConfig [TestNG-tests-1] Set environemnt as ACCEPTANCE
+2020-09-10 12:34:42,628 INFO c.s.u.CommonUtils [TestNG-tests-1] Constructor initialize in CommonUtils class.
+2020-09-10 12:34:42,629 INFO c.s.p.LoginPage [TestNG-tests-1] Constructor 1 initialize in Login Page class.
+2020-09-10 12:34:42,697 INFO c.s.l.TestListener [TestNG-tests-1] *** Running test method testCaseVerifyLoginButton...
+2020-09-10 12:34:43,368 INFO c.s.a.k.a.KeyboardActions [TestNG-tests-1] LOGIN is present on the current page
+2020-09-10 12:34:43,483 INFO c.s.u.CommonUtils [TestNG-tests-1] Verified element LOGIN successfully
+2020-09-10 12:34:43,483 INFO c.s.s.SmokeSuite [TestNG-tests-1] Verified login button
+2020-09-10 12:34:43,486 INFO c.s.l.TestListener [TestNG-tests-1] *** Executed testCaseVerifyLoginButton test successfully...
+2020-09-10 12:34:43,487 INFO c.s.c.BaseConfig [TestNG-tests-1] Quiting driver in after class
+2020-09-10 12:34:45,052 INFO c.s.l.TestListener [TestNG-tests-1] *** Test Suite Method Test Cases ending ***
+2020-09-10 12:34:46,019 INFO c.s.c.BaseConfig [main] After suite executed
